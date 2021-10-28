@@ -9,4 +9,5 @@ my:
       cream:
         - sugar
         - milk
+        - murr
       composition: { dough: [eggs, sugar, flour], cream: [sugar, milk]}
